@@ -1,3 +1,6 @@
 [submodule "Portfolio"]
 	path = Portfolio
 	url = https://github.com/WizKIDz/Portfolio.git
+[submodule "AboutMePage"]
+	path = AboutMePage
+	url = https://github.com/WizKIDz/AboutMePage.git
