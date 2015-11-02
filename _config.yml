@@ -15,7 +15,6 @@ github_username:  jekyll
 
 safe: true
 lsi: false
-source: your top-level directory
 
 highlighter: pygments
 
