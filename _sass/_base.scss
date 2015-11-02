@@ -1,0 +1,65 @@
+html, body{
+  margin: 1%;
+  height: 100%;
+  font-family: 'Helvetica', sans-serif;
+  color: #333333;
+}
+.wrapper{
+  display: grid;
+  background: #fff;
+}
+a{
+  color: #DA664D;
+  text-decoration: none;
+}
+.site-title{
+  font-size: 19pt;
+}
+.nav{
+  display: flex;
+  width: 100%;
+  border-bottom: 1px solid #f0f0f0;
+}
+#spacer{
+  order: 2;
+  width: 20%;
+}
+#home{
+  order: 1;
+  width: 10%;
+  padding-top: 15px;
+}
+#blog{
+  order: 2;
+  width: 20%;
+  a{
+    color: #666666;
+  }
+}
+#about{
+  order: 3;
+  width: 20%;
+  a{
+    color: #666666;
+  }
+}
+#portfolio{
+  order: 4;
+  width: 20%;
+  a{
+    color: #666666;
+  }
+}
+// Post
+
+.post-list{
+  .post-meta{
+    color: #666666;
+  }
+  ul, li{
+    list-style-type: none;
+  }
+}
+h1, h2, h3{
+  font-style: italic;
+}
