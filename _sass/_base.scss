@@ -50,11 +50,18 @@ a{
     color: #666666;
   }
 }
+code {
+    display: inline-block;
+    background-color: #f0f0f0;
+    padding: 8px;
+    border-radius: 5px;
+}
 // Post
 .post {
   margin: 8px;
 }
 .post-list{
+
   .post-meta{
     color: #666666;
   }
