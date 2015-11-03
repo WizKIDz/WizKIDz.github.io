@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AC</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Nov 2015 11:59:40 -0600</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2015 11:59:40 -0600</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>First Post :)</title>
+        <description>&lt;h1 id=&quot;hello-internet&quot;&gt;Hello Internet&lt;/h1&gt;
+
+&lt;p&gt;hello, my name is Austin Crane and i am some what new. I have many projects that i have been apart of that have gained a lot of traction and i will be using this blog to keep people up to date with what is going on with them. I am an iOS developer by heart but am getting into web development. Connecting with people has always been my favorite thing to do so feel free to say hi :) (austin.crane.roboticst(@)gmail.com)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2015 02:49:11 -0600</pubDate>
+        <link>http://yourdomain.com/2015/11/02/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/11/02/welcome-to-jekyll.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>My First Startup</title>
+        <description>&lt;h1 id=&quot;startup-hq&quot;&gt;Startup HQ&lt;/h1&gt;
+
+&lt;p&gt;Startup HQ is my first ever startup :), hopefully the first of many successes. What is Startup HQ? Startup HQ is a web platform i am designing for startups around the world to find partners and resources at a startup cost. As most startup owners know building a startup from the ground up is tough and finding a team is the most important thing on the list of a new startup. At the beginning a startup cant offer anything to a partner other than to bost a “you will own blah amount of this company”, what happens when you give a partner a big amount of your company and find out that the partnership is not working well? Startup HQ gives startups the ability to form teams with the ability to show around! Big companies can pick and choose their employees why cant startups?&lt;/p&gt;
+
+&lt;p&gt;I will be updating this post in the future. Stay tuned :)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2015 02:49:11 -0600</pubDate>
+        <link>http://yourdomain.com/2015/11/02/My-First-Startup.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/11/02/My-First-Startup.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
