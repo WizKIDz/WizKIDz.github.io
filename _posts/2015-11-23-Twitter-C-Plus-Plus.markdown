@@ -3,8 +3,6 @@ layout: post
 title:  "Twitter C++"
 date:   2015-11-02 08:49:11
 ---
-Twitter C++
-=============
 
 # TwitterCpp
 

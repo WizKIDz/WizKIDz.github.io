@@ -3,8 +3,8 @@ layout: post
 title:  "My First Startup"
 date:   2015-11-02 08:49:11
 ---
-Startup HQ
-=============
+
+# My First Startup
 
 Startup HQ is my first ever startup :), hopefully the first of many successes.
 <!--break-->
