@@ -9,10 +9,13 @@ Twitter C++
 # TwitterCpp
 
 *Easy to use TwitterAPI client for tweet bots and data analysis*
+
+
 <!--break-->
-![My helpful screenshot]({{ site.url }}/assets/twittercppheading.png)
+
 
 ## Twitter RestAPI Abstract
+![My helpful screenshot]({{ site.url }}/assets/twittercppheading.png)
 
 ### Whats a Rest API?
 A Rest API delivers and manipulates data to a client through http/https request much like you do everyday on your web browser. Rest stands for representational state transfer and is used primarily for web services. In most cases these web services are used by client applications for example: a mobile app, desktop app, and artificial intelligence. In my professional career I have implemented or created Rest APIs for the manipulation of data in a database in every project I have been a part of.
