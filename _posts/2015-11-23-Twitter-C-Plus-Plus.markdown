@@ -10,7 +10,7 @@ Twitter C++
 # TwitterCpp
 
 *Easy to use TwitterAPI client for tweet bots and data analysis*
-
+<!--break-->
 ## Twitter RestAPI Abstract
 
 ### Whats a Rest API?
