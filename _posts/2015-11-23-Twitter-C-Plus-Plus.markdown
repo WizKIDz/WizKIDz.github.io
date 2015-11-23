@@ -3,7 +3,6 @@ layout: post
 title:  "Twitter C++"
 date:   2015-11-02 08:49:11
 ---
-![My helpful screenshot]({{ site.url }}/assets/twittercppheading.png)
 Twitter C++
 =============
 
@@ -11,6 +10,8 @@ Twitter C++
 
 *Easy to use TwitterAPI client for tweet bots and data analysis*
 <!--break-->
+![My helpful screenshot]({{ site.url }}/assets/twittercppheading.png)
+
 ## Twitter RestAPI Abstract
 
 ### Whats a Rest API?
