@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Twitter C++</title>
+  <meta name="description" content="Easy to use TwitterAPI client for tweet bots and data analysis">
+<link href='https://fonts.googleapis.com/css?family=Lora:400,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://wizkidz.github.io//2015/11/02/Twitter-C-Plus-Plus.html">
+  <link rel="alternate" type="application/rss+xml" title="AC" href="http://wizkidz.github.io//feed.xml" />
+</head>
+
+
+  <body>
+    <header class="site-header">
+
+  <div class="nav">
+    <a  id="home"class="site-title" href="/">AC</a>
+    <div id="spacer"></div>
+    <h4 id="blog"><a href="/">Blog</a></h4>
+    <h4 id="about"><a href="/AboutMePage">About</a></h4>
+    <h4 id="portfolio"><a href="/Portfolio">Portfolio</a></h4>
+  </div>
+
+</header>
+
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Twitter C++</h1>
+    <p class="post-meta">Nov 2, 2015</p>
+  </header>
+
+  <article class="post-content">
+    <p><em>Easy to use TwitterAPI client for tweet bots and data analysis</em></p>
+
+<!--break-->
+
+<h2 id="twitter-restapi-abstract">Twitter RestAPI Abstract</h2>
+<p><img src="http://wizkidz.github.io//assets/twittercppheading.png" alt="My helpful screenshot" /></p>
+
+<h3 id="whats-a-rest-api">Whats a Rest API?</h3>
+<p>A Rest API delivers and manipulates data to a client through http/https request much like you do everyday on your web browser. Rest stands for representational state transfer and is used primarily for web services. In most cases these web services are used by client applications for example: a mobile app, desktop app, and artificial intelligence. In my professional career I have implemented or created Rest APIs for the manipulation of data in a database in every project I have been a part of.</p>
+
+<h3 id="what-is-api-client">What is API client?</h3>
+<p>A client for an API consumes the API and uses it as an interface for some service. In this case it will be used for manipulating tweets and mining data in twitters vast amount of interesting data. I will use my client to help me market services like software consulting and market analysis over a long span of time.</p>
+
+<h3 id="my-history-of-dealing-with-rest-apis">My history of dealing with REST APIs</h3>
+<p>I have been apart of several projects such as:
+- Shocker Shuttle Tracker App (WSU shuttle app)
+- ASIDIC conference app
+- Many websites
+- A weather alarm clock app
+- Other internal apps</p>
+
+<p>All of these projects I had to learn to create a client for all of the web services that drove the data. In the early stages of learning how to make these clients it made my work very hard because I didn’t know how it should work and I used this project to do more learning on how to design on  eproperly.</p>
+
+<h3 id="what-does-twittercpp-do">What does twittercpp do?</h3>
+
+<p>In project Twittercpp can be used to manipulate and mine data for anything! While being written in c++ it will be strictly optimized to keep the data first and keep the need for  optimization negligible.</p>
+
+<h2 id="twittercpp--the-insides">TwitterCpp:  The insides</h2>
+
+<h3 id="the-data-models">The Data Models</h3>
+
+<h4 id="tweet-model">Tweet Model</h4>
+
+<ul>
+  <li>tweet_ID : integer</li>
+  <li>username : string</li>
+  <li>text : string</li>
+  <li>retweet : boolean</li>
+  <li>retweets : integer</li>
+</ul>
+
+<h4 id="twitter-user">Twitter User</h4>
+
+<ul>
+  <li>screen_name : string</li>
+  <li>bio : string</li>
+  <li>folowers : integer</li>
+  <li>following : integer</li>
+  <li>favorites : integer</li>
+</ul>
+
+<h4 id="twitter-place">Twitter Place</h4>
+
+<ul>
+  <li>address : string</li>
+  <li>coordinates : struct coordinates</li>
+  <li>bounding_box : struct box</li>
+  <li>full_name : string</li>
+  <li>name : string</li>
+  <li>country_code : string</li>
+  <li>country : string</li>
+</ul>
+
+<h2 id="how-to-use">How To Use</h2>
+
+<p>In order to use this project at its current development state:</p>
+
+<p>Create bindings for data models in python or some other langauge that allows the use of c++ bindings.</p>
+
+<h2 id="what-needs-work">What Needs Work?</h2>
+
+<p>In upcoming imporvments to twitter c++ there will be the following:
+- Easy http extension to make requests to twitter without having to use your own http library
+- Already created bindings for python
+- Unit tests to check all instences of good and bad data</p>
+
+  </article>
+
+</div>
+
+      </div>
+    <footer class="site-footer">
+
+</footer>
+
+  </body>
+
+</html>

@@ -4,36 +4,136 @@
     <title>AC</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Nov 2015 12:03:39 -0600</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2015 12:03:39 -0600</lastBuildDate>
+    <link>http://wizkidz.github.io//</link>
+    <atom:link href="http://wizkidz.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 29 Nov 2015 11:21:17 -0600</pubDate>
+    <lastBuildDate>Sun, 29 Nov 2015 11:21:17 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>First Post :)</title>
-        <description>&lt;h1 id=&quot;hello-internet&quot;&gt;Hello Internet&lt;/h1&gt;
+        <title>Startup HQ</title>
+        <description>&lt;p&gt;&lt;em&gt;Angie’s List For Startups And Entrepreneurs&lt;/em&gt;
+&lt;!--break--&gt;&lt;/p&gt;
 
-&lt;p&gt;hello, my name is Austin Crane and i am some what new. I have many projects that i have been apart of that have gained a lot of traction and i will be using this blog to keep people up to date with what is going on with them. I am an iOS developer by heart but am getting into web development. Connecting with people has always been my favorite thing to do so feel free to say hi :) (austin.crane.roboticst(@)gmail.com)&lt;/p&gt;
+&lt;h2 id=&quot;my-prayers-answered&quot;&gt;My Prayers Answered&lt;/h2&gt;
+
+&lt;p&gt;When i started college in the fall of 2013 i was so ambitious and excited to learn that i started a club for students like me who were so excited to tinker with circuits and other “maker movement” things. That next year when i arrived back to school i found that keeping my members interested was very hard when no one in the school wanted to help fund some of the projects, it was seen as not worth it to some of the staff. I was so angry that we had this club that enriched our education by applying what we learned in the class room and no one wanted to back it. Money was tight because of the new push towards innovation on my campus and they thought that industry investments was what would drive innovation. I grew impatient with higher education that year that my grads started slipping and my interest in school dwindled not because i was not interested in learning but because no one was interested in helping me enrich the 100 year old curriculum that we follow to the “T”. I then decided that maybe the answer to enriching my education was to be come an entrepreneur and enrich it by putting myself out into the world and making my dint in the world! I was so excited in the though of controlling my own career that i lost my focus on being a great leader. How does and entrepreneur lead him self? lead a team? lead his/her family? I prayed for days for god to let me focus on what mattered and create a great company the world could flow around it and not through it. Being a great boss or entrepreneur or even father does not mean you have to know every little thing but instead know how to find the people or skills needed to do a particular job. A father can not mother their son or daughter like a true mother can. No father can give their son or daughter the same life that having both parents can give. Its the same in being an entrepreneur, an engineer can not know everything about running a business. After praying and being shown that being an entrepreneur is not about being the smartest person in the room but instead knowing the right person or tool for the job.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Nov 2015 04:49:11 -0600</pubDate>
+        <link>http://wizkidz.github.io//2015/11/29/Startup-HQ.html</link>
+        <guid isPermaLink="true">http://wizkidz.github.io//2015/11/29/Startup-HQ.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>First Post :)</title>
+        <description>&lt;p&gt;hello, my name is Austin Crane and i am some what new. I have many projects that i have been apart of that have gained a lot of traction and i will be using this blog to keep people up to date with what is going on with them. I am an iOS developer by heart but am getting into web development. Connecting with people has always been my favorite thing to do so feel free to say hi :) (austin.crane.roboticst(@)gmail.com)
+&lt;!--break--&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Nov 2015 02:49:11 -0600</pubDate>
-        <link>http://yourdomain.com/2015/11/02/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/11/02/welcome-to-jekyll.html</guid>
+        <link>http://wizkidz.github.io//2015/11/02/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://wizkidz.github.io//2015/11/02/welcome-to-jekyll.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Twitter C++</title>
+        <description>&lt;p&gt;&lt;em&gt;Easy to use TwitterAPI client for tweet bots and data analysis&lt;/em&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;h2 id=&quot;twitter-restapi-abstract&quot;&gt;Twitter RestAPI Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://wizkidz.github.io//assets/twittercppheading.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-a-rest-api&quot;&gt;Whats a Rest API?&lt;/h3&gt;
+&lt;p&gt;A Rest API delivers and manipulates data to a client through http/https request much like you do everyday on your web browser. Rest stands for representational state transfer and is used primarily for web services. In most cases these web services are used by client applications for example: a mobile app, desktop app, and artificial intelligence. In my professional career I have implemented or created Rest APIs for the manipulation of data in a database in every project I have been a part of.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-api-client&quot;&gt;What is API client?&lt;/h3&gt;
+&lt;p&gt;A client for an API consumes the API and uses it as an interface for some service. In this case it will be used for manipulating tweets and mining data in twitters vast amount of interesting data. I will use my client to help me market services like software consulting and market analysis over a long span of time.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-history-of-dealing-with-rest-apis&quot;&gt;My history of dealing with REST APIs&lt;/h3&gt;
+&lt;p&gt;I have been apart of several projects such as:
+- Shocker Shuttle Tracker App (WSU shuttle app)
+- ASIDIC conference app
+- Many websites
+- A weather alarm clock app
+- Other internal apps&lt;/p&gt;
+
+&lt;p&gt;All of these projects I had to learn to create a client for all of the web services that drove the data. In the early stages of learning how to make these clients it made my work very hard because I didn’t know how it should work and I used this project to do more learning on how to design on  eproperly.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-twittercpp-do&quot;&gt;What does twittercpp do?&lt;/h3&gt;
+
+&lt;p&gt;In project Twittercpp can be used to manipulate and mine data for anything! While being written in c++ it will be strictly optimized to keep the data first and keep the need for  optimization negligible.&lt;/p&gt;
+
+&lt;h2 id=&quot;twittercpp--the-insides&quot;&gt;TwitterCpp:  The insides&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-data-models&quot;&gt;The Data Models&lt;/h3&gt;
+
+&lt;h4 id=&quot;tweet-model&quot;&gt;Tweet Model&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tweet_ID : integer&lt;/li&gt;
+  &lt;li&gt;username : string&lt;/li&gt;
+  &lt;li&gt;text : string&lt;/li&gt;
+  &lt;li&gt;retweet : boolean&lt;/li&gt;
+  &lt;li&gt;retweets : integer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;twitter-user&quot;&gt;Twitter User&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;screen_name : string&lt;/li&gt;
+  &lt;li&gt;bio : string&lt;/li&gt;
+  &lt;li&gt;folowers : integer&lt;/li&gt;
+  &lt;li&gt;following : integer&lt;/li&gt;
+  &lt;li&gt;favorites : integer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;twitter-place&quot;&gt;Twitter Place&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;address : string&lt;/li&gt;
+  &lt;li&gt;coordinates : struct coordinates&lt;/li&gt;
+  &lt;li&gt;bounding_box : struct box&lt;/li&gt;
+  &lt;li&gt;full_name : string&lt;/li&gt;
+  &lt;li&gt;name : string&lt;/li&gt;
+  &lt;li&gt;country_code : string&lt;/li&gt;
+  &lt;li&gt;country : string&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-use&quot;&gt;How To Use&lt;/h2&gt;
+
+&lt;p&gt;In order to use this project at its current development state:&lt;/p&gt;
+
+&lt;p&gt;Create bindings for data models in python or some other langauge that allows the use of c++ bindings.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-needs-work&quot;&gt;What Needs Work?&lt;/h2&gt;
+
+&lt;p&gt;In upcoming imporvments to twitter c++ there will be the following:
+- Easy http extension to make requests to twitter without having to use your own http library
+- Already created bindings for python
+- Unit tests to check all instences of good and bad data&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2015 02:49:11 -0600</pubDate>
+        <link>http://wizkidz.github.io//2015/11/02/Twitter-C-Plus-Plus.html</link>
+        <guid isPermaLink="true">http://wizkidz.github.io//2015/11/02/Twitter-C-Plus-Plus.html</guid>
         
         
       </item>
     
       <item>
         <title>My First Startup</title>
-        <description>&lt;h1 id=&quot;startup-hq&quot;&gt;Startup HQ&lt;/h1&gt;
-
-&lt;p&gt;Startup HQ is my first ever startup :), hopefully the first of many successes. What is Startup HQ? Startup HQ is a web platform i am designing for startups around the world to find partners and resources at a startup cost. As most startup owners know building a startup from the ground up is tough and finding a team is the most important thing on the list of a new startup. At the beginning a startup cant offer anything to a partner other than to bost a “you will own blah amount of this company”, what happens when you give a partner a big amount of your company and find out that the partnership is not working well? Startup HQ gives startups the ability to form teams with the ability to show around! Big companies can pick and choose their employees why cant startups?&lt;/p&gt;
+        <description>&lt;p&gt;Startup HQ is my first ever startup :), hopefully the first of many successes.
+&lt;!--break--&gt;
+ What is Startup HQ? Startup HQ is a web platform i am designing for startups around the world to find partners and resources at a startup cost. As most startup owners know building a startup from the ground up is tough and finding a team is the most important thing on the list of a new startup. At the beginning a startup cant offer anything to a partner other than to bost a “you will own blah amount of this company”, what happens when you give a partner a big amount of your company and find out that the partnership is not working well? Startup HQ gives startups the ability to form teams with the ability to show around! Big companies can pick and choose their employees why cant startups?&lt;/p&gt;
 
 &lt;p&gt;I will be updating this post in the future. Stay tuned :)&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Nov 2015 02:49:11 -0600</pubDate>
-        <link>http://yourdomain.com/2015/11/02/My-First-Startup.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/11/02/My-First-Startup.html</guid>
+        <link>http://wizkidz.github.io//2015/11/02/My-First-Startup.html</link>
+        <guid isPermaLink="true">http://wizkidz.github.io//2015/11/02/My-First-Startup.html</guid>
         
         
       </item>

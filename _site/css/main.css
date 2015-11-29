@@ -1,10 +1,16 @@
-html, body { margin: 1%; height: 100%; font-family: 'Helvetica', sans-serif; color: #333333; }
+html, body { margin: 1%; height: 100%; font-family: 'Lora', serif; line-height: 25px; color: #333333; }
 
 .wrapper { display: grid; background: #fff; }
 
-a { color: #DA664D; text-decoration: none; }
+.sub-title { font-weight: 700; font-style: italic; margin-top: 30px; }
 
-.site-title { font-size: 19pt; }
+h1, h2, h3, h4, h5 { font-weight: 700; font-style: italic; }
+
+.text-center { text-align: center; }
+
+a { color: #333333; }
+
+.site-title { font-size: 19pt; text-decoration: none; font-style: italic; }
 
 .nav { display: flex; width: 100%; border-bottom: 1px solid #f0f0f0; }
 
@@ -26,9 +32,9 @@ code { display: inline-block; background-color: #f0f0f0; padding: 8px; border-ra
 .post { margin: 8px; }
 
 .post-list { margin-left: 10%; margin-right: 10%; }
+@media screen and (max-width: 450px) { .post-list { margin-left: 8px; margin-right: 8px; } }
 .post-list .post-meta { color: #666666; }
-.post-list ul, .post-list li { list-style-type: none; }
+.post-list ul, .post-list li { list-style-type: none; margin-bottom: 50px; }
 
-h1, h2, h3 { font-style: italic; }
-
-.post { margin: 12px; }
+.post { margin-left: 10%; margin-right: 10%; padding-bottom: 8px; }
+@media screen and (max-width: 450px) { .post { margin-left: 8px; margin-right: 8px; padding-bottom: 8px; } }

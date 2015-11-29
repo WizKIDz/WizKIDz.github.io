@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Startup HQ"
+date:   2015-11-29 10:49:11
+---
+*Angie's List For Startups And Entrepreneurs*
+<!--break-->
+
+## My Prayers Answered
+
+When i started college in the fall of 2013 i was so ambitious and excited to learn that i started a club for students like me who were so excited to tinker with circuits and other "maker movement" things. That next year when i arrived back to school i found that keeping my members interested was very hard when no one in the school wanted to help fund some of the projects, it was seen as not worth it to some of the staff. I was so angry that we had this club that enriched our education by applying what we learned in the class room and no one wanted to back it. Money was tight because of the new push towards innovation on my campus and they thought that industry investments was what would drive innovation. I grew impatient with higher education that year that my grads started slipping and my interest in school dwindled not because i was not interested in learning but because no one was interested in helping me enrich the 100 year old curriculum that we follow to the "T". I then decided that maybe the answer to enriching my education was to be come an entrepreneur and enrich it by putting myself out into the world and making my dint in the world! I was so excited in the though of controlling my own career that i lost my focus on being a great leader. How does and entrepreneur lead him self? lead a team? lead his/her family? I prayed for days for god to let me focus on what mattered and create a great company the world could flow around it and not through it. Being a great boss or entrepreneur or even father does not mean you have to know every little thing but instead know how to find the people or skills needed to do a particular job. A father can not mother their son or daughter like a true mother can. No father can give their son or daughter the same life that having both parents can give. Its the same in being an entrepreneur, an engineer can not know everything about running a business. After praying and being shown that being an entrepreneur is not about being the smartest person in the room but instead knowing the right person or tool for the job.
