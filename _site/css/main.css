@@ -19,13 +19,13 @@ a { color: #333333; }
 #home { order: 1; width: 10%; padding-top: 15px; }
 
 #blog { order: 2; width: 20%; }
-#blog a { color: #333333; }
+#blog a { text-decoration: none; color: #333333; }
 
 #about { order: 3; width: 20%; }
-#about a { color: #333333; }
+#about a { text-decoration: none; color: #333333; }
 
 #portfolio { order: 4; width: 20%; }
-#portfolio a { color: #333333; }
+#portfolio a { text-decoration: none; color: #333333; }
 
 code { display: inline-block; background-color: #f0f0f0; padding: 8px; border-radius: 5px; }
 
