@@ -1,10 +1,10 @@
-html, body { margin: 1%; height: 100%; font-family: 'Lora', serif; line-height: 25px; color: #333333; }
-
-.wrapper { display: grid; background: #fff; }
+html, body { height: 100%; font-family: 'Lora', serif; line-height: 25px; color: #333333; }
 
 .sub-title { font-weight: 700; font-style: italic; margin-top: 30px; }
 
 h1, h2, h3, h4, h5 { font-weight: 700; font-style: italic; }
+
+p { font-size: 13pt; line-height: 30px; }
 
 .text-center { text-align: center; }
 
@@ -29,12 +29,10 @@ a { color: #333333; }
 
 code { display: inline-block; background-color: #f0f0f0; padding: 8px; border-radius: 5px; }
 
-.post { margin: 8px; }
+.post { margin: 0 auto; max-width: 600px; }
+.post .post-content p { text-indent: 50px; }
 
-.post-list { margin-left: 10%; margin-right: 10%; }
+.post-list { margin: 0 auto; max-width: 600px; }
 @media screen and (max-width: 450px) { .post-list { margin-left: 8px; margin-right: 8px; } }
 .post-list .post-meta { color: #666666; }
 .post-list ul, .post-list li { list-style-type: none; margin-bottom: 50px; }
-
-.post { margin-left: 10%; margin-right: 10%; padding-bottom: 8px; }
-@media screen and (max-width: 450px) { .post { margin-left: 8px; margin-right: 8px; padding-bottom: 8px; } }
